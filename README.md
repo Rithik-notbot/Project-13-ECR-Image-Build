@@ -33,10 +33,10 @@ Create a private Amazon Elastic Container Registry (ECR) repository to store app
 - `.gitignore` — Excludes Terraform state and sensitive files.
 
 ## Status
-Terraform configuration prepared. Validation and planning pending. ECR deployment, image building, and image push pending company approval and an approved build environment.
 
-## Deliverables
-- Terraform source code in GitHub.
-- Private ECR repository.
-- Successfully pushed application image.
-- Screenshot showing the image in ECR.
+- Terraform ECR repository configuration prepared.
+- Terraform formatting completed successfully.
+- Terraform validation completed successfully.
+- AWS deployment pending account permissions and approval.
+- Docker image build and ECR push pending an approved Docker environment.
+- ECR image verification screenshot pending deployment.
